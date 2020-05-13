@@ -1,0 +1,24 @@
+\name{test_pros}
+\docType{data}
+\alias{test_pros}
+\title{Point-based Simard function Sample Data Set}
+\description{
+  This is a set of input data to test the pros function.
+}
+\usage{data(test_pros)}
+\format{A data frame containing 9 columns, 4 rows, including 1 header line.}
+\source{
+  no source
+}
+\references{
+  1. Simard, A.J., Eenigenburg, J.E., Adams, K.B., Nissen, R.L., Deacon, and Deacon, A.G. 1984. A general procedure for sampling and analyzing wildland fire spread. 
+
+2. Byram, G.M. 1959. Combustion of forest fuels. In: Davis, K.P. Forest Fire Control and Use. McGraw-Hill, New York.
+
+3. Curry, J.R., and Fons, W.L. 1938. Rate of spread of surface fires in the Ponderosa Pine Type of California. Journal of Agricultural Research 57(4): 239-267.
+
+4. Simard, A.J., Deacon, A.G., and Adams, K.B. 1982. Nondirectional sampling wildland fire spread. Fire Technology: 221-228. 
+}
+\keyword{datasets}
+\keyword{simard}
+\keyword{lros}
